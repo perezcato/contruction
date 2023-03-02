@@ -1829,7 +1829,7 @@ select::-ms-expand {
     display: none
 }
 
-.navbar-default .navbar-nav > li.active > a, .navbar-default .navbar-nav > li.active > a:hover, .navbar-default .navbar-nav > li.active > a:focus, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+.navbar-default .navbar-nav > li.active > a, .navbar-default .navbar-nav > li.active > a:not(.not_changed):hover, .navbar-default .navbar-nav > li.active > a:focus, .navbar-default .navbar-nav > li > a:not(.not_changed):focus, .navbar-default .navbar-nav > li > a:hover {
     color: #f6c93a !important;
     background: 0 0
 }
