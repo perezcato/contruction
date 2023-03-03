@@ -1834,6 +1834,23 @@ select::-ms-expand {
     background: 0 0
 }
 
+.contact_us_section{
+    color: #333;
+}
+
+.contact_us_section:hover{
+    color: #f6c93a;
+}
+
+.contact_us_button:hover  {
+    background-color: #333;
+}
+
+.contact_us_button:hover a  {
+    color: #f6c93a;
+}
+
+
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
     color: #f6c93a;
     background: 0 0
