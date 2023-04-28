@@ -66,6 +66,13 @@ select::-ms-expand {
     margin: 20px 0 10px
 }
 
+.title-5 {
+    padding: 20px;
+    font-weight: 600;
+    font-size: 12px;
+    text-align: center;
+}
+
 .page-headding {
     background: url(../images/bg-subheader.jpg) repeat;
     padding: 45px 0;
