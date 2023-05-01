@@ -50,7 +50,7 @@ select::-ms-expand {
     color: #333;
     font-weight: 800;
     text-transform: uppercase;
-    margin: 0
+    margin: 0;
 }
 
 .hr-80 {
@@ -68,9 +68,25 @@ select::-ms-expand {
 
 .title-5 {
     padding: 20px;
-    font-weight: 600;
-    font-size: 12px;
+    font-weight: 700;
     text-align: center;
+    font-size: 14px;
+}
+
+#home-all22 {
+    margin-top: 40px;
+}
+
+#home-all33 {
+    margin-top: 40px;
+}
+
+#home-all44 {
+    margin-top: 40px;
+}
+
+#home-all55 {
+    margin-top: 40px;
 }
 
 .page-headding {
