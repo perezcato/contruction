@@ -34,6 +34,9 @@
     float: inherit;
     padding-bottom: 20px;
   }
+  .mthtwo {
+    font-size: 50px;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -510,6 +513,9 @@
   }
   .newrow {
     display: flex;
+  }
+  .mthtwo {
+    font-size: 20px;
   }
 }
 
